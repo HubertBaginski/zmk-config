@@ -25,6 +25,9 @@
 #define VOL_UP       C_VOLUME_UP
 #define VOL_DN       C_VOLUME_DOWN
 
+&mt {
+    tapping-term-ms = <400>;
+};
 
 &kscan0 {
        debounce-press-ms = <30>;
