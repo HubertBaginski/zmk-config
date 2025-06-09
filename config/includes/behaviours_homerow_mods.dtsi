@@ -1,5 +1,5 @@
 // Make sure settings.dtsi is included before this file
-#include "zmk-helpers/key-labels/adv360_custom.h"
+#include "zmk-helpers/key-labels/adv360.h"
 
 #define HM_TAPPING_TERM 300
 #define HM_TAPPING_TERM_FAST 200
